@@ -1,0 +1,11 @@
+{
+    "name": "Music",
+    "description": [
+        "Music",
+        "\n**Version:**\n`{0}`"
+    ],
+    "authors": ["KRhero"],
+    "version": "1.0.2",
+    "bot_version": "4.0.0",
+    "cogs_required": []
+}
